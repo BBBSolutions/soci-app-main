@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "flat": "A-421",
+    "slot": "008",
+    "area": "Parking",
+    "twoWheelerCount": 1,
+    "fourWheelerCount": 1
+  },
+  {
+    "id": 2,
+    "flat": "B-011",
+    "slot": "011",
+    "area": "Parking",
+    "twoWheelerCount": 1,
+    "fourWheelerCount": 0
+  },
+  {
+    "id": 3,
+    "flat": "C-305",
+    "slot": "015",
+    "area": "Basement",
+    "twoWheelerCount": 2,
+    "fourWheelerCount": 1
+  },
+  {
+    "id": 4,
+    "flat": "D-210",
+    "slot": "020",
+    "area": "Ground Floor",
+    "twoWheelerCount": 0,
+    "fourWheelerCount": 1
+  },
+  {
+    "id": 5,
+    "flat": "E-110",
+    "slot": "025",
+    "area": "Parking",
+    "twoWheelerCount": 1,
+    "fourWheelerCount": 1
+  }
+]
